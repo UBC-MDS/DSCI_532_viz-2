@@ -13,19 +13,6 @@ By the end of the course, students are expected to:
 4. Explain the trade-offs of using animation vs juxtaposed views vs derived data.
 5. Explain and justify methods to validate visualization design effectiveness including computational benchmarks, field studies on deployed software, and qualitative discussion of visual results.
 
-## Teaching Team
-
-At your service!
-
-| Position            | Name                      | Slack Handle        | GHE Handle   |
-| ------------------- | ------------------------- | ------------------- | -----------  |
-| Lecture Instructor  | Cydney Nielsen            | `@cydney`           | `@cydneyn`   |
-| Lab Instructor      | Vincenzo Coia             | `@vcoia`            | `@vcoia`     |
-| Teaching Assistant  | Kateryna Tyshchenko       | `@Kate Tyshchenko`  | `@kate96`    |
-| Teaching Assistant  | Sahir Advani              | `@Sahir Advani`     | `@sahiradv`  |
-| Teaching Assistant  | Alejandra Virgen-Urcelay  | `@Alejandra`        | `@ale2508`   |
-| Teaching Assistant  | Joel Ostblom              | `@joelostblom`      | `@jostblom`  |
-
 ## Assessments
 
 This is a __project-based course__ with peer review. You'll be evaluated as follows:
