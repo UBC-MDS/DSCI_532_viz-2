@@ -13,17 +13,6 @@ By the end of the course, students are expected to:
 4. Explain the trade-offs of using animation vs juxtaposed views vs derived data.
 5. Explain and justify methods to validate visualization design effectiveness including computational benchmarks, field studies on deployed software, and qualitative discussion of visual results.
 
-## Assessments
-
-This is a __project-based course__ with peer review. You'll be evaluated as follows:
-
-| Assessment       | Weight  | Deadline        | Submit to... |
-|------------------|---------|------------------|----------|
-| Milestone 1      | 23%     | January 12, 2019 at 18:00 | Github |
-| Milestone 2      | 23%     | January 19, 2019 at 18:00 | Github |
-| Milestone 3 + Peer Review (8%) | 31%     | January 26, 2019 at 18:00 | Github |
-| Milestone 4      | 23%     | __January 30__, 2019 at 18:00 | Github |
-
 ## Lecture Schedule
 
 | Lecture | Topic | 
